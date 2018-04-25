@@ -1,10 +1,10 @@
 # mi-primer-repo
 
-##verificar el estado del repositorio local
+## verificar el estado del repositorio local
 git status
-##agregar los archivos nuevos al repositorio local
+## agregar los archivos nuevos al repositorio local
 git add --all
-##confirmamos los archivos nuevos en el repositorio
+## confirmamos los archivos nuevos en el repositorio
 git commit -m "descripcion del cambio nuevo"
-##subimos los cambios del repositorio local a la nube (github)
+## subimos los cambios del repositorio local a la nube (github)
 git push -u origin master
